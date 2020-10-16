@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473368207833",
+    "firebase_url": "https://chatapp-38225.firebaseio.com",
+    "project_id": "chatapp-38225",
+    "storage_bucket": "chatapp-38225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473368207833:android:20fbe447da88f8472ff9c8",
+        "android_client_info": {
+          "package_name": "com.rgaur.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473368207833-ns1fb51alridr81pk1h5k40fubd9lrs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4SYaaHzBT9_D_wg4wHAfkNZyV6eNtWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473368207833-ns1fb51alridr81pk1h5k40fubd9lrs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
